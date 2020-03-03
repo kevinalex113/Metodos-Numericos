@@ -313,7 +313,7 @@ def op_jaco2(jaco):
     det = ((jaco[0][0])*(jaco[1][1]))-((jaco[0][1]*jaco[1][0]))
     adj = [[jaco[1][1],-1*jaco[1][0]],[-1*jaco[0][1],jaco[0][0]]]
     try:
-        jaco_inv = [[adj[0][0]/det,adj[0][1]/det],[adj[1][0]/det,adj[1][1]/det]]
+        jaco_inv = [[adj[0][0]/det,adj[1][0]/det],[adj[0][1]/det,adj[1][1]/det]]
     except ZeroDivisionError:
         print(" Divicion entre cero")
         jaco_inv = 1
