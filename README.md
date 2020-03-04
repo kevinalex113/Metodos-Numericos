@@ -8,6 +8,7 @@ Repositorio para alojar las carpetas de los programas parciales y Paquete Final 
 
 ## Autores
 
-* ** Alvares Cortes Kevin Alejandro **
-* ** Bautista Gaona Luis Eduardo **
-* ** De la Peña Estrada Valerie Samantha **
+* **Alvares Cortes Kevin Alejandro**
+* **Bautista Gaona Luis Eduardo**
+* **De la Peña Estrada Valerie Samantha**
+* **Ortiz Flores Diana Michelle**
